@@ -19,7 +19,7 @@ body
 }
 #cabecera #logo 
 {
-    width: 5px;
+    width: 20px;
     vertical-align: middle;
 }
 #cabecera #tagline {
@@ -39,12 +39,10 @@ body
 #container h1
 {
     font-size: 30px;
-    color: blue;
 }
 #post 
 {
     background-color: white;
-    color: blue;
     padding: 1em;
 }
 #footer 
